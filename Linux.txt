@@ -67,7 +67,8 @@ Vi Editor
 	Command Mode  
 		- We can't add any content. This is used to run vi related commands. 
 		- Initially when we do vi to a file command mode is the default mode.
-	
+	Insert -  esc+i
+        exit  - esc+:wq!
 		Only Save the changes to the file -  ':w'
 		To quit from vi - ':q!'
 		Save and quit from vi - ':wq!' or (<escape> - Hold shift + zz)
