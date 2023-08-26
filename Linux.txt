@@ -80,9 +80,9 @@ Vi Editor
 
 		To replace word - %s/<old_word>/<new_word>/g
 
-		dd - Cut the entire line where the cursor is 
-		yy - copy the entire line where the cursor is 
-		p - Paste the clip-board content next to the cursor 
+		dd - Cut the entire line where the cursor is - command mode
+		yy - copy the entire line where the cursor is - command mode
+		p - Paste the clip-board content next to the cursor - command mode
 
 	Insert Mode 
 		- Is used to add the content to the file.
