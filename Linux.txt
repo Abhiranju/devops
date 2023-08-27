@@ -107,7 +107,7 @@ sort
 	
 	1. You can reverse the order of the sort with the -r option.
 		sort -r file.txt
-	2. The -f option forces the sort to ignore the case of a letter when ordering lines.
+	2. The -f option forces the sort to ignore the case of a letter when ordering lines.(in the order of 1,2,3,4...a,b,c,d,e,..)
 		sort -f file.txt
 	3. Duplicate lines can be removed with the -u option (uniq)
 		sort -u file.txt
